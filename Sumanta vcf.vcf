@@ -1,0 +1,34 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sumanta Biswas
+N:Biswas;Sumanta;;;
+NICKNAME:Suman
+item1.EMAIL;TYPE=INTERNET:contact@sumantabiswas.com
+item1.X-ABLabel:
+item2.TEL:84867 06466
+item2.X-ABLabel:
+item3.TEL:84867 06466
+item3.X-ABLabel:
+item4.TEL:84867 06466
+item4.X-ABLabel:
+item5.ADR:;Eshwara Layout\, Indiranagar;Paramahansa Yogananda Rd;Bengaluru;
+ Karnataka;560038;IN;Paramahansa Yogananda Rd\nEshwara Layout\, Indiranagar
+ \nBengaluru\, Karnataka 560038\nIN
+item5.X-ABLabel:
+item6.ORG:Entrepreneur
+item6.X-ABLabel:
+item7.TITLE:Creator
+item7.X-ABLabel:
+BDAY:19950126
+item8.URL:https\://sumantabiswas.com/
+item8.X-ABLabel:PROFILE
+item9.URL:https\://www.linkedin.com/in/sumantabiswas24/
+item9.X-ABLabel:LinkedIn
+item10.URL:https\://instagram.com/sumantabiswas24/
+item10.X-ABLabel:Instagram
+item11.URL:https\://www.facebook.com/SumantaBiswas24
+item11.X-ABLabel:Facebook
+PHOTO:https://lh3.googleusercontent.com/contacts/ABsqplu2fXD6JW4TLHNVW188zz
+ hnOvSQhoDFwTUiwY2-ituh04YlqtK-
+CATEGORIES:myContacts,starred
+END:VCARD
